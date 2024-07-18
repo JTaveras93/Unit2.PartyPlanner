@@ -1,0 +1,35 @@
+#partyList {
+    border: 2px solid #1C6EA4;
+    margin-left:5cm;
+    margin-right:5cm;
+    padding-left: 5cm;
+    padding-right: 5cm;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+h1 {
+    display: flex;
+    font-size: 1000;
+    padding: 0%;
+    margin-top: 0cm;
+    margin-bottom: 0cm;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+#newPartyDiv {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
